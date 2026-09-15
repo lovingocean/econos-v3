@@ -1,0 +1,6 @@
+{
+  "name": "ECONOS",
+  "description": "Economic and Trust Infrastructure platform for businesses, wealth, and autonomous AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
